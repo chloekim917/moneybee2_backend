@@ -47,3 +47,10 @@ Expenditure.create(date: 20210209, category_id:transportation.id, detail:"gas", 
 Expenditure.create(date: 20210209, category_id:gift.id, detail:"birthday gift", amount: 57.0)
 Expenditure.create(date: 20210210, category_id:medical.id, detail:"doctor co-pay", amount: 41.0)
 Expenditure.create(date: 20210211, category_id:housing.id, detail:"partial rent", amount: 410.0)
+
+Expenditure.create(date: 20210301, category_id: utility.id, detail:"PSEG bill", amount: 34.09)
+Expenditure.create(date: 20210302, category_id:travel.id, detail:"train ticket", amount: 10.34)
+Expenditure.create(date: 20210303, category_id: food.id, detail:"bubble tea", amount: 6.75)
+Expenditure.create(date: 20210303, category_id:utility.id, detail:"Electricity bill", amount: 45.34)
+Expenditure.create(date: 20210305, category_id:entertainment.id, detail:"Movie tix", amount: 15.0)
+Expenditure.create(date: 20210306, category_id: food.id, detail:"Shake Shack", amount: 9.45)
